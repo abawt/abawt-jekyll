@@ -1,0 +1,73 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "ABAWT"
+description: > # this means to ignore newlines until "email:"
+   Building a team of like-minded, determined and focused individuals who would love to contribute to the welfare of Africa through technology.
+
+email: info@abawt.eu
+#blog logo
+logo: "/assets/images/abawt-logo-thumb.png"
+# blog cover
+cover: "/assets/images/ABAWT-banner.jpg"
+
+name: 'Manny Acquah'
+author: 'Manny Acquah'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://abawt.eu" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@abawtgroup'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+  - icon:	users
+    url:	http://www.meetup.com/A-Better-Africa-With-Tech-ABAWT-Meetup/
+    desc:	Join our meetup group
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	twitter
+    url:	https://twitter.com/abawtgroup
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	facebook
+    url:	https://facebook.com/abawt.group
+    desc: Connect with us on facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/abawt
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	google-plus
+    url:	https://google.com/u/0/101242557316374311544
+    desc:	Add me on google+
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	slack
+    url:	https://slack.abawt.eu
+    desc:	Join our slack group
+    share_url:
+    share_title:
+    share_link:
