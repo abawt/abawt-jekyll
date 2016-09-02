@@ -13,6 +13,7 @@ email: info@abawt.eu
 logo: "/assets/images/abawt-logo-thumb.png"
 # blog cover
 cover: "/assets/images/ABAWT-banner.jpg"
+footer_img: "/assets/images/ABAWT-footer-img.jpg"
 
 name: 'Manny Acquah'
 author: 'Manny Acquah'
@@ -20,7 +21,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "https://www.abawt.eu.***.***" # the base hostname & protocol for your site
+url: "http://www.abawt.eu" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@abawtgroup'
