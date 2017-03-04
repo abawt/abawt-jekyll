@@ -4,7 +4,7 @@ title:  "Our First Meetup Notes!"
 date:   2016-03-14 14:34:25
 categories: meetup
 tags: featured
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+image: https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic6.jpeg
 ---
 Thanks for everyone who showed up to our first meetup. We had tons of ideas and the collaborative effort was awesome!
 The main ideas were:
@@ -54,6 +54,9 @@ The overall goal is to:
 * Spur the tertiary system to see whats needed and tailor courses to meet demand.
 
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+![abawt meetup #1](https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic1.jpeg){:class="img-responsive"}
+![abawt meetup #1](https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic2.jpeg){:class="img-responsive"}
+![abawt meetup #1](https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic3.jpeg){:class="img-responsive"}
+![abawt meetup #1](https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic4.jpeg){:class="img-responsive"}
+![abawt meetup #1](https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic5.jpeg){:class="img-responsive"}
+![abawt meetup #1](https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic7.jpeg){:class="img-responsive"}

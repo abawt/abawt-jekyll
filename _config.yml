@@ -17,7 +17,7 @@ footer_img: "/assets/images/ABAWT-footer-img.jpg"
 
 name: 'Manny Acquah'
 author: 'Manny Acquah'
-author_image: "/assets/images/author.jpg"
+author_image: "https://s3-eu-west-1.amazonaws.com/mannyacquah/pics/profile.jpg"
 
 paginate:	5
 
