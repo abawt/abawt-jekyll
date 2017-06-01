@@ -3,7 +3,7 @@ layout: post
 title:  "Our First Meetup Notes!"
 date:   2016-03-14 14:34:25
 categories: meetup
-tags: featured
+tags: [featured, africa, technology, tech, meetup]
 image: https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic6.jpeg
 ---
 Thanks for everyone who showed up to our first meetup. We had tons of ideas and the collaborative effort was awesome!
@@ -13,7 +13,7 @@ The main ideas were:
 * online hub to connect investors to innovators in africa (kickstarter africa project - njangilist)
 * pair programming ngo: a platform to help programmers learn quickly from mentors on a pair programming online app
 * networking platform to bridge cultural differences across countries in africa through visuals eg images, videos, (perfect way to communicate)
-* finger print biometrics software to speed up patient recognition and speedier care 
+* finger print biometrics software to speed up patient recognition and speedier care
 * interactive software game to facilitate learning through multilingual games (yeepa)
 * voice social network app equivalent to a radio talkshow that enables the broadcast of important issues
 
@@ -24,9 +24,9 @@ We asked the idea pitchers to give a brief write up of how they&#39;d like their
 
 [njangilist.com](https://www.njangilist.com/)
 
-As you may know, small and medium size enterprises (SME&#39;s) are the backbones of many strong economies today, contributing to GDP, employment and economic growth. 
+As you may know, small and medium size enterprises (SME&#39;s) are the backbones of many strong economies today, contributing to GDP, employment and economic growth.
 
-In Africa, governments were in the past the biggest employers. When their corporations suffered, the economy suffered. 
+In Africa, governments were in the past the biggest employers. When their corporations suffered, the economy suffered.
 
 Today, a new generation of Africa&#39;s youthful population is taking over, creating innovative Startups that solve some of the key problems in their communities and countries that governments cant solve. In the most cases, they are using tech to solve these challenges.
 
@@ -41,7 +41,7 @@ So these young founders are our hope. But they a lot of challenges as they try t
 * infrastructure (either lacking or inaccessible)
 
 
-The funding and talent issues can easily be addressed. Thats what I think can be quickly addressed and thats what I am doing with Njangilist. A listing, rating and review, networking and crowdfunding solution tailored to the african market and diaspora. 
+The funding and talent issues can easily be addressed. Thats what I think can be quickly addressed and thats what I am doing with Njangilist. A listing, rating and review, networking and crowdfunding solution tailored to the african market and diaspora.
 The concept has been inspired by <a href="http://angellist.co">Angellist.co</a>, <a href="http://angieslist.com">Angieslist.com</a>, <a href="http://f6s.com">F6s.com</a>, <a href="http://seedrs.com">seedrs.com</a>.com. No reinventing of the wheel here!
 
 Mentorship can easily be solved too, but needs the preliminary work above. That is my belief!
