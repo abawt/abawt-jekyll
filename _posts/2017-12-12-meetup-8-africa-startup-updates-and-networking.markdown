@@ -22,8 +22,8 @@ As also there were some really good and insightful presentations as well as mult
 Markus and his team talk about building a quick and efficient way of detecting malnourished children quickly and accurately using Augmented Reality enabled Smartphones to scan children in 3D.
 
 Child Growth Monitor Slides:
-<a href="https://s3-eu-west-1.amazonaws.com/abawt/meetup8/material/ChildGrowthMonitor-PitchDeck-2017-12-10.pptx" download>Get the slides</a>
-<embed src="https://s3-eu-west-1.amazonaws.com/abawt/meetup8/material/ChildGrowthMonitor-PitchDeck-2017-12-10.pptx" width="500" height="375" type='application/pdf'>
+<a href="https://s3-eu-west-1.amazonaws.com/abawt/meetup8/material/ChildGrowthMonitor-PitchDeck-2017-12-10.pdf" download>Get the slides</a>
+<embed src="https://s3-eu-west-1.amazonaws.com/abawt/meetup8/material/ChildGrowthMonitor-PitchDeck-2017-12-10.pdf" width="500" height="375" type='application/pdf'>
 
 ## Olatunde Ayilara on "Waracake"
 Waracake was established in 2015 and currently has 5 employees to tackle the online cake retail market. It currently covers Nigeria cities Lagos, Abuja, Port Harcourt, Ibadan and also operates another pivoted company [Waragifts](https://waragifts.com/).
