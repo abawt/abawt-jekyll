@@ -10,7 +10,7 @@ Thanks for everyone who showed up to our first meetup. We had tons of ideas and 
 The main ideas were:
 
 * e-book Kenya distribution: platform to enable a more speedy and cost-effective way of getting books to kids in Kenya
-* online hub to connect investors to innovators in africa (kickstarter africa project - njangilist)
+* online hub to connect investors to innovators in africa (kickstarter africa project *njangilist*)
 * pair programming ngo: a platform to help programmers learn quickly from mentors on a pair programming online app
 * networking platform to bridge cultural differences across countries in africa through visuals eg images, videos, (perfect way to communicate)
 * finger print biometrics software to speed up patient recognition and speedier care

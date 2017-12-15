@@ -166,7 +166,7 @@ body {
   top: 10px;
   width: 48px;
   height: 48px;
-  background-color: #000;
+  background-color: #fff;
   overflow: hidden;
   z-index: 99; }
   .logo-readium .logo {
@@ -726,7 +726,7 @@ body {
       text-decoration: none;
       cursor: pointer;
       height: 44px;
-      background: #57ad68;
+      background: #ff0000;
       color: #fff;
       vertical-align: middle;
       box-sizing: border-box;

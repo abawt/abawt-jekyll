@@ -13,8 +13,8 @@ Another lovely night with super like-minded people. We had two main presentation
 
 ## Presenters:
 
-* Fred of [gh.pricedrummer.com/](http://gh.pricedrummer.com/) | [fdk.owusu@gmail.com](mailto:fdk.owusu@gmail.com)
-* Arun of [10academy.org](http://10academy.org/) | [arun@infinitepotentials.org](mailto:arun@infinitepotentials.org)
+* Fred of [gh.pricedrummer.com/](http://gh.pricedrummer.com/) *[fdk.owusu@gmail.com](mailto:fdk.owusu@gmail.com)*
+* Arun of [10academy.org](http://10academy.org/) *[arun@infinitepotentials.org](mailto:arun@infinitepotentials.org)*
 
 ## “Recruiting and employment of young talents/graduates in continent" - Talk by co-organizer Moses Acquah and PriceDrummer CEO Fred
 Pricedrummer is currently the only price comparison site in Ghana according to the owner Fred and this presentation expanded on the issues of recruitment, technology and challenges faced by the company.

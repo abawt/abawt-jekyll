@@ -1,105 +1,279 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mediator</title>
-    <description>A Jekyll theme - Medium inspired
+    <title>ABAWT</title>
+    <description>Building a team of like-minded, determined and focused individuals who would love to contribute to the welfare of Africa through technology.
 </description>
-    <link>http://myblog.***.***/</link>
-    <atom:link href="http://myblog.***.***/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 01 Sep 2016 21:13:54 +0200</pubDate>
-    <lastBuildDate>Thu, 01 Sep 2016 21:13:54 +0200</lastBuildDate>
+    <link>http://www.abawt.eu/</link>
+    <atom:link href="http://www.abawt.eu/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 15 Dec 2017 19:54:10 +0100</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2017 19:54:10 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Mediator Features</title>
-        <description>&lt;h1 id=&quot;mediator-formats-and-css-features&quot;&gt;Mediator Formats and CSS features&lt;/h1&gt;
-
-&lt;p&gt;Examples for different formats and css features&lt;/p&gt;
-
-&lt;h1 id=&quot;header-formats&quot;&gt;Header Formats&lt;/h1&gt;
-&lt;p&gt;#Header1
-##Header2&lt;/p&gt;
-
-&lt;h1 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h1&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;lists&quot;&gt;Lists&lt;/h1&gt;
-&lt;p&gt;##orderd lists
-1. one
-2. two
-3. three&lt;/p&gt;
-
-&lt;h2 id=&quot;unorderd-lists&quot;&gt;unorderd lists&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Apple&lt;/li&gt;
-  &lt;li&gt;Banana&lt;/li&gt;
-  &lt;li&gt;Plum&lt;/li&gt;
+        <title>Meetup #8 - Africa startup updates + Networking!</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Date: 12th December 2017&lt;/li&gt;
+  &lt;li&gt;Venue: WeWork Ku’damm&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
-&lt;p&gt;This is an &lt;a href=&quot;http://example.com/&quot; title=&quot;With a Title&quot;&gt;example link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our last event of the year 2017 was awesome thanks to our sponsors &lt;a href=&quot;https://www.wework.com/&quot;&gt;WeWork&lt;/a&gt;!!!&lt;/p&gt;
 
-&lt;h1 id=&quot;combinations&quot;&gt;Combinations&lt;/h1&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
+&lt;p&gt;As also there were some really good and insightful presentations as well as multiple networking opportunities.&lt;/p&gt;
 
-  &lt;ul&gt;
-    &lt;li&gt;Apple&lt;/li&gt;
-    &lt;li&gt;Banana&lt;/li&gt;
-    &lt;li&gt;Plum&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;presenters&quot;&gt;Presenters:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Markus Pohl: Founder of &lt;a href=&quot;https://childgrowthmonitor.org/&quot;&gt;Child Growth Monitor&lt;/a&gt;  &lt;em&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#109;&amp;#097;&amp;#114;&amp;#107;&amp;#117;&amp;#115;&amp;#046;&amp;#112;&amp;#111;&amp;#104;&amp;#108;&amp;#064;&amp;#114;&amp;#101;&amp;#115;&amp;#101;&amp;#097;&amp;#114;&amp;#099;&amp;#104;&amp;#050;&amp;#103;&amp;#117;&amp;#105;&amp;#100;&amp;#097;&amp;#110;&amp;#099;&amp;#101;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#109;&amp;#097;&amp;#114;&amp;#107;&amp;#117;&amp;#115;&amp;#046;&amp;#112;&amp;#111;&amp;#104;&amp;#108;&amp;#064;&amp;#114;&amp;#101;&amp;#115;&amp;#101;&amp;#097;&amp;#114;&amp;#099;&amp;#104;&amp;#050;&amp;#103;&amp;#117;&amp;#105;&amp;#100;&amp;#097;&amp;#110;&amp;#099;&amp;#101;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Olatunde Ayilara: Founder of &lt;a href=&quot;https://waracake.com/&quot;&gt;Waracake&lt;/a&gt; &lt;em&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#117;&amp;#110;&amp;#100;&amp;#101;&amp;#064;&amp;#119;&amp;#097;&amp;#114;&amp;#097;&amp;#099;&amp;#097;&amp;#107;&amp;#101;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#116;&amp;#117;&amp;#110;&amp;#100;&amp;#101;&amp;#064;&amp;#119;&amp;#097;&amp;#114;&amp;#097;&amp;#099;&amp;#097;&amp;#107;&amp;#101;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;markus-pohl-on-childgrowthmonitor&quot;&gt;Markus Pohl on “ChildGrowthMonitor””&lt;/h2&gt;
+&lt;p&gt;Markus and his team talk about building a quick and efficient way of detecting malnourished children quickly and accurately using Augmented Reality enabled Smartphones to scan children in 3D.&lt;/p&gt;
+
+&lt;p&gt;Child Growth Monitor Slides:
+&lt;a href=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup8/material/ChildGrowthMonitor-PitchDeck-2017-12-10.pptx&quot; download=&quot;&quot;&gt;Get the slides&lt;/a&gt;
+&lt;embed src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup8/material/ChildGrowthMonitor-PitchDeck-2017-12-10.pptx&quot; width=&quot;500&quot; height=&quot;375&quot; type=&quot;application/pdf&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;olatunde-ayilara-on-waracake&quot;&gt;Olatunde Ayilara on “Waracake”&lt;/h2&gt;
+&lt;p&gt;Waracake was established in 2015 and currently has 5 employees to tackle the online cake retail market. It currently covers Nigeria cities Lagos, Abuja, Port Harcourt, Ibadan and also operates another pivoted company &lt;a href=&quot;https://waragifts.com/&quot;&gt;Waragifts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some more from the meetup!
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup8/pics/pic-2.jpg&quot; alt=&quot;abawt meetup #8&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup8/pics/pic-3.jpg&quot; alt=&quot;abawt meetup #8&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup8/pics/pic-4.jpg&quot; alt=&quot;abawt meetup #8&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup8/pics/pic-5.jpg&quot; alt=&quot;abawt meetup #8&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup8/pics/pic-6.jpg&quot; alt=&quot;abawt meetup #8&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup8/pics/pic-7.jpg&quot; alt=&quot;abawt meetup #8&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Nov 2014 15:34:25 +0100</pubDate>
-        <link>http://myblog.***.***/mediator/feature/2014/11/30/mediator_features.html</link>
-        <guid isPermaLink="true">http://myblog.***.***/mediator/feature/2014/11/30/mediator_features.html</guid>
+        <pubDate>Tue, 12 Dec 2017 14:00:00 +0100</pubDate>
+        <link>http://www.abawt.eu/meetup/2017/12/12/meetup-8-africa-startup-updates-+-networking.html</link>
+        <guid isPermaLink="true">http://www.abawt.eu/meetup/2017/12/12/meetup-8-africa-startup-updates-+-networking.html</guid>
         
         <category>featured</category>
         
+        <category>africa</category>
         
-        <category>mediator</category>
+        <category>technology</category>
         
-        <category>feature</category>
+        <category>tech</category>
+        
+        <category>meetup</category>
+        
+        
+        <category>meetup</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Meetup #6 - Catchup session on the African startup scene!</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Date: 30th May 2017&lt;/li&gt;
+  &lt;li&gt;Venue: WeWork Sony Centre&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Aaand our meetup is getting even bigger!!!&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Last night was packed with awesome presentations and some really good contacts came out of the networking.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;presenters&quot;&gt;Presenters:&lt;/h2&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mahi: VP of &lt;a href=&quot;http://www.mercury-toastmasters-berlin.de/&quot;&gt;Mercury Toastmasters Berlin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Abhilash Veera: of &lt;a href=&quot;http://4lynk.com/&quot;&gt;4Lynk&lt;/a&gt; &lt;em&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#052;&amp;#108;&amp;#121;&amp;#110;&amp;#107;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#052;&amp;#108;&amp;#121;&amp;#110;&amp;#107;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Sannssi: of &lt;a href=&quot;http://www.afrikaverein.de/en/&quot;&gt;German African Association&lt;/a&gt; &lt;em&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#114;&amp;#101;&amp;#102;&amp;#101;&amp;#114;&amp;#097;&amp;#116;&amp;#045;&amp;#112;&amp;#114;&amp;#064;&amp;#097;&amp;#102;&amp;#114;&amp;#105;&amp;#107;&amp;#097;&amp;#118;&amp;#101;&amp;#114;&amp;#101;&amp;#105;&amp;#110;&amp;#046;&amp;#100;&amp;#101;&quot;&gt;&amp;#114;&amp;#101;&amp;#102;&amp;#101;&amp;#114;&amp;#097;&amp;#116;&amp;#045;&amp;#112;&amp;#114;&amp;#064;&amp;#097;&amp;#102;&amp;#114;&amp;#105;&amp;#107;&amp;#097;&amp;#118;&amp;#101;&amp;#114;&amp;#101;&amp;#105;&amp;#110;&amp;#046;&amp;#100;&amp;#101;&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;footer&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;site-footer&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
- &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;subscribe&amp;quot;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;/feed.xml&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;tooltip&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;fa fa-rss&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/i&amp;gt; Subscribe!&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;inner&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;copyright&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;All&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;content&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;copyright&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;mailto:a-mail@mail.mail&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Dirk&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Fabisch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/a&amp;gt; &amp;amp;copy; 2016 &amp;amp;bull; All rights reserved.&amp;lt;/section&amp;gt;&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;poweredby&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Made&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;http://jekyllrb.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Jekyll&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/a&amp;gt;&amp;lt;/section&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/div&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/footer&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;mahii-on-fear-of-public-speaking&quot;&gt;Mahii on “Fear of Public Speaking”&lt;/h2&gt;
+&lt;p&gt;Mahi from Toastmasters had a really intriguing talk with lots of hard scientific backing facts on how the fear of public speaking should actually be tackled head on verses shied away from to improve oneself.&lt;/p&gt;
 
+&lt;p&gt;Toastmasters Slides:
+&lt;a href=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/material/Toastmaster-pitch.pdf&quot; download=&quot;&quot;&gt;Get the slides&lt;/a&gt;
+&lt;embed src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/material/Toastmaster-pitch.pdf&quot; width=&quot;500&quot; height=&quot;375&quot; type=&quot;application/pdf&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;abhilash-on-fintech-startup-in-ghana---4lynk&quot;&gt;Abhilash on FinTech startup in Ghana - 4Lynk&lt;/h2&gt;
+&lt;p&gt;4lynk provides a service to transfer money across as well as a direct linkage between end users in the Diaspora and local businesses &amp;amp; merchants.&lt;/p&gt;
+
+&lt;p&gt;4Lynk Slides:
+&lt;a href=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/material/4LYNK-Pitch.pdf&quot; download=&quot;&quot;&gt;Get the slides&lt;/a&gt;
+&lt;embed src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/material/4LYNK-Pitch.pdf&quot; width=&quot;500&quot; height=&quot;375&quot; type=&quot;application/pdf&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;saannsi&quot;&gt;Saannsi&lt;/h2&gt;
+&lt;p&gt;Sannssi from afrikaverein spoke passionately about a new programme they are pushing that aims at getting young startups with a focus in Africa connected to potential investors. You can read all about the “Young German African Business Netfu  work” in his presentation.&lt;/p&gt;
+
+&lt;p&gt;German African Association presentation:
+&lt;a href=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/material/German-African-association.pdf&quot; download=&quot;&quot;&gt;Get the slides&lt;/a&gt;
+&lt;embed src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/material/German-African-association.pdf&quot; width=&quot;500&quot; height=&quot;375&quot; type=&quot;application/pdf&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some more from the meetup!
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/pics/pic-1.jpg&quot; alt=&quot;abawt meetup #6&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/pics/pic-2.jpg&quot; alt=&quot;abawt meetup #6&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/pics/pic-3.jpg&quot; alt=&quot;abawt meetup #6&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/pics/pic-4.jpg&quot; alt=&quot;abawt meetup #6&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/pics/pic-5.jpg&quot; alt=&quot;abawt meetup #6&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/pics/pic-6.jpg&quot; alt=&quot;abawt meetup #6&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/pics/pic-8.jpg&quot; alt=&quot;abawt meetup #6&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/pics/pic-9.jpg&quot; alt=&quot;abawt meetup #6&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup6/pics/pic-10.jpg&quot; alt=&quot;abawt meetup #6&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 29 Aug 2014 16:34:25 +0200</pubDate>
-        <link>http://myblog.***.***/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://myblog.***.***/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
+        <pubDate>Wed, 31 May 2017 15:00:20 +0200</pubDate>
+        <link>http://www.abawt.eu/meetup/2017/05/31/meetup-6-catchup-session-on-the-african-startup-scene.html</link>
+        <guid isPermaLink="true">http://www.abawt.eu/meetup/2017/05/31/meetup-6-catchup-session-on-the-african-startup-scene.html</guid>
         
         <category>featured</category>
         
+        <category>africa</category>
         
-        <category>jekyll</category>
+        <category>technology</category>
         
-        <category>update</category>
+        <category>tech</category>
+        
+        <category>meetup</category>
+        
+        
+        <category>meetup</category>
+        
+      </item>
+    
+      <item>
+        <title>Meetup #5 - African-based startups and more networking!</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Date: 28th February 2017&lt;/li&gt;
+  &lt;li&gt;Venue: WeWork Hackersher Markt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Another lovely night with super like-minded people. We had two main presentations tonight and all outlined below.&lt;/p&gt;
+
+&lt;h2 id=&quot;presenters&quot;&gt;Presenters:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fred of &lt;a href=&quot;http://gh.pricedrummer.com/&quot;&gt;gh.pricedrummer.com/&lt;/a&gt; &lt;em&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#102;&amp;#100;&amp;#107;&amp;#046;&amp;#111;&amp;#119;&amp;#117;&amp;#115;&amp;#117;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#102;&amp;#100;&amp;#107;&amp;#046;&amp;#111;&amp;#119;&amp;#117;&amp;#115;&amp;#117;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Arun of &lt;a href=&quot;http://10academy.org/&quot;&gt;10academy.org&lt;/a&gt; &lt;em&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#114;&amp;#117;&amp;#110;&amp;#064;&amp;#105;&amp;#110;&amp;#102;&amp;#105;&amp;#110;&amp;#105;&amp;#116;&amp;#101;&amp;#112;&amp;#111;&amp;#116;&amp;#101;&amp;#110;&amp;#116;&amp;#105;&amp;#097;&amp;#108;&amp;#115;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#097;&amp;#114;&amp;#117;&amp;#110;&amp;#064;&amp;#105;&amp;#110;&amp;#102;&amp;#105;&amp;#110;&amp;#105;&amp;#116;&amp;#101;&amp;#112;&amp;#111;&amp;#116;&amp;#101;&amp;#110;&amp;#116;&amp;#105;&amp;#097;&amp;#108;&amp;#115;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;recruiting-and-employment-of-young-talentsgraduates-in-continent---talk-by-co-organizer-moses-acquah-and-pricedrummer-ceo-fred&quot;&gt;“Recruiting and employment of young talents/graduates in continent” - Talk by co-organizer Moses Acquah and PriceDrummer CEO Fred&lt;/h2&gt;
+&lt;p&gt;Pricedrummer is currently the only price comparison site in Ghana according to the owner Fred and this presentation expanded on the issues of recruitment, technology and challenges faced by the company.
+We had a remote presentation from CEO Fred from Sweden.
+The main points taken are outlined below:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Started out in Ghana and now in six countries including Kenya, Nigeria and South Africa&lt;/li&gt;
+  &lt;li&gt;Recruited hungry students and a pay above average in Ghana as well as trust to keep them&lt;/li&gt;
+  &lt;li&gt;Revenue is based on ads and Pay-Per-Clicks (PPCs) on the site&lt;/li&gt;
+  &lt;li&gt;No payment module yet to purchase deals directly on site but on the road map&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;academyorg---identifying-university-graduates-with-10x-potential-impact-in-africa---talk-by-founder-arun-sharma&quot;&gt;“10academy.org - Identifying university graduates with 10x potential impact in Africa” - Talk by Founder Arun Sharma”&lt;/h2&gt;
+&lt;p&gt;10academy seeks to find top talent across Africa and by providing them internship opportunities in top companies in Africa help accelerate impact across the continent.
+The first pilot programme starts in the Ashesi University in Ghana in June.
+Presentation can be found below:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup5/material/10Academy.pdf&quot; download=&quot;&quot;&gt;Get the slides&lt;/a&gt;
+&lt;embed src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup5/material/10Academy.pdf&quot; width=&quot;500&quot; height=&quot;375&quot; type=&quot;application/pdf&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;fancy-being-a-lecturer-at-meltwater&quot;&gt;Fancy being a lecturer at Meltwater?&lt;/h2&gt;
+&lt;p&gt;An ABAWT member Ben also gave an impressive impromptu talk about his time as a tutor at &lt;a href=&quot;http://meltwater.org/&quot;&gt;MeltWater&lt;/a&gt; School in Ghana and encouraged people to sign up for the similar rewarding experiencel  &lt;/p&gt;
+
+&lt;p&gt;Some of the gang!
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup5/pics/pic-2.jpg&quot; alt=&quot;abawt meetup #5&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup5/pics/pic-3.jpg&quot; alt=&quot;abawt meetup #5&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup5/pics/pic-4.jpg&quot; alt=&quot;abawt meetup #5&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup5/pics/pic-5.jpg&quot; alt=&quot;abawt meetup #5&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup5/pics/pic-1.jpg&quot; alt=&quot;abawt meetup #5&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Mar 2017 10:30:20 +0100</pubDate>
+        <link>http://www.abawt.eu/meetup/2017/03/01/meetup-5-African-based-startups-and-more-networking.html</link>
+        <guid isPermaLink="true">http://www.abawt.eu/meetup/2017/03/01/meetup-5-African-based-startups-and-more-networking.html</guid>
+        
+        <category>featured</category>
+        
+        <category>africa</category>
+        
+        <category>technology</category>
+        
+        <category>tech</category>
+        
+        <category>meetup</category>
+        
+        
+        <category>meetup</category>
+        
+      </item>
+    
+      <item>
+        <title>Our First Meetup Notes!</title>
+        <description>&lt;p&gt;Thanks for everyone who showed up to our first meetup. We had tons of ideas and the collaborative effort was awesome!
+The main ideas were:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;e-book Kenya distribution: platform to enable a more speedy and cost-effective way of getting books to kids in Kenya&lt;/li&gt;
+  &lt;li&gt;online hub to connect investors to innovators in africa (kickstarter africa project &lt;em&gt;njangilist&lt;/em&gt;)&lt;/li&gt;
+  &lt;li&gt;pair programming ngo: a platform to help programmers learn quickly from mentors on a pair programming online app&lt;/li&gt;
+  &lt;li&gt;networking platform to bridge cultural differences across countries in africa through visuals eg images, videos, (perfect way to communicate)&lt;/li&gt;
+  &lt;li&gt;finger print biometrics software to speed up patient recognition and speedier care&lt;/li&gt;
+  &lt;li&gt;interactive software game to facilitate learning through multilingual games (yeepa)&lt;/li&gt;
+  &lt;li&gt;voice social network app equivalent to a radio talkshow that enables the broadcast of important issues&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We asked the idea pitchers to give a brief write up of how they&#39;d like their ideas to be implemented and we even though we only got one back it&#39;s outlined below:&lt;/p&gt;
+
+&lt;h2 id=&quot;njangilist-pitch&quot;&gt;Njangilist Pitch&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.njangilist.com/&quot;&gt;njangilist.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As you may know, small and medium size enterprises (SME&#39;s) are the backbones of many strong economies today, contributing to GDP, employment and economic growth.&lt;/p&gt;
+
+&lt;p&gt;In Africa, governments were in the past the biggest employers. When their corporations suffered, the economy suffered.&lt;/p&gt;
+
+&lt;p&gt;Today, a new generation of Africa&#39;s youthful population is taking over, creating innovative Startups that solve some of the key problems in their communities and countries that governments cant solve. In the most cases, they are using tech to solve these challenges.&lt;/p&gt;
+
+&lt;p&gt;The rise of this generation is giving hope to Africa. Think about the hundreds of millions of youth that would needs jobs in the future. Where will the jobs come from? Someone will have to solve that eminent (un)employment, because Africa has a youthful population.&lt;/p&gt;
+
+&lt;p&gt;So these young founders are our hope. But they a lot of challenges as they try to start off. These include but not limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;lack of funding (70% of SMEs in Sub saharan Africa don have access to bank loans)&lt;/li&gt;
+  &lt;li&gt;talent (there is a talent gap: mismatch, universities not up to the time etc.)&lt;/li&gt;
+  &lt;li&gt;mentorship (there are no role models and mentors that the youth can look up to)&lt;/li&gt;
+  &lt;li&gt;infrastructure (either lacking or inaccessible)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The funding and talent issues can easily be addressed. Thats what I think can be quickly addressed and thats what I am doing with Njangilist. A listing, rating and review, networking and crowdfunding solution tailored to the african market and diaspora.
+The concept has been inspired by &lt;a href=&quot;http://angellist.co&quot;&gt;Angellist.co&lt;/a&gt;, &lt;a href=&quot;http://angieslist.com&quot;&gt;Angieslist.com&lt;/a&gt;, &lt;a href=&quot;http://f6s.com&quot;&gt;F6s.com&lt;/a&gt;, &lt;a href=&quot;http://seedrs.com&quot;&gt;seedrs.com&lt;/a&gt;.com. No reinventing of the wheel here!&lt;/p&gt;
+
+&lt;p&gt;Mentorship can easily be solved too, but needs the preliminary work above. That is my belief!&lt;/p&gt;
+
+&lt;p&gt;The overall goal is to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Help Startups flourish and become engines of growth. With growth, so many problems will be solved automatically!&lt;/li&gt;
+  &lt;li&gt;Encourage Africans to start a culture of investing because that is how we create wealth for ourselves while helping Africa.&lt;/li&gt;
+  &lt;li&gt;Spur the tertiary system to see whats needed and tailor courses to meet demand.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic1.jpeg&quot; alt=&quot;abawt meetup #1&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic2.jpeg&quot; alt=&quot;abawt meetup #1&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic3.jpeg&quot; alt=&quot;abawt meetup #1&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic4.jpeg&quot; alt=&quot;abawt meetup #1&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic5.jpeg&quot; alt=&quot;abawt meetup #1&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/abawt/meetup1/pics/pic7.jpeg&quot; alt=&quot;abawt meetup #1&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Mar 2016 15:34:25 +0100</pubDate>
+        <link>http://www.abawt.eu/meetup/2016/03/14/first-meetup-notes.html</link>
+        <guid isPermaLink="true">http://www.abawt.eu/meetup/2016/03/14/first-meetup-notes.html</guid>
+        
+        <category>featured</category>
+        
+        <category>africa</category>
+        
+        <category>technology</category>
+        
+        <category>tech</category>
+        
+        <category>meetup</category>
+        
+        
+        <category>meetup</category>
         
       </item>
     
