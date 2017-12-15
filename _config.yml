@@ -12,8 +12,8 @@ email: info@abawt.eu
 #blog logo
 logo: "/assets/images/abawt-logo-thumb.png"
 # blog cover
-cover: "/assets/images/ABAWT-banner.jpg"
-footer_img: "/assets/images/ABAWT-footer-img.jpg"
+cover: "https://s3-eu-west-1.amazonaws.com/abawt/assets/ABAWT-banner.png"
+footer_img: "https://s3-eu-west-1.amazonaws.com/abawt/assets/ABAWT-footer-img.jpg"
 
 name: 'Manny Acquah'
 author: 'Manny Acquah'
