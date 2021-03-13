@@ -8,7 +8,7 @@ title: "ABAWT"
 description: > # this means to ignore newlines until "email:"
    Building a team of like-minded, determined and focused individuals who would love to contribute to the welfare of Africa through technology.
 
-email: info@abawt.eu
+email: info@abawt.io
 #blog logo
 logo: "/assets/images/abawt-logo-thumb.png"
 # blog cover
@@ -21,7 +21,7 @@ author_image: "https://s3-eu-west-1.amazonaws.com/mannyacquah/pics/profile.jpg"
 
 paginate:	5
 
-url: "http://blog.abawt.eu" # the base hostname & protocol for your site
+url: "http://blog.abawt.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@abawtgroup'
@@ -67,7 +67,7 @@ social:
     share_link:
 
   - icon:	slack
-    url:	https://slack.abawt.eu
+    url:	https://slack.abawt.io
     desc:	Join our slack group
     share_url:
     share_title:
